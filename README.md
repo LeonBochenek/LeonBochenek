@@ -1,5 +1,5 @@
 # Hi Everyone I'm Leon and I'm 👋
-### Junior Java Developer
+### Junior Java Developer ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F22101050-java-logo-transparent-png&psig=AOvVaw2KqN3BkBGi0Jvx7NwOLMIO&ust=1695473537461000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj26KGhvoEDFQAAAAAdAAAAABAD)
 <!--
 **LeonBochenek/LeonBochenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
