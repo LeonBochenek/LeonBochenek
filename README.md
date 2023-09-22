@@ -1,5 +1,5 @@
-### Hi Everyone I'm Leon and I'm 👋
-## Junior Java Developer
+# Hi Everyone I'm Leon and I'm 👋
+### Junior Java Developer
 <!--
 **LeonBochenek/LeonBochenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
