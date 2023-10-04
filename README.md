@@ -11,8 +11,7 @@ I'm Leon, a Junior Java Developer based in Biecz, Poland. Here's a bit more abou
 - 📚 In my free time, I enjoy reading about coding and organizing e-sport tournaments.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leon-bochenek-187931281/)
 ## Languages and Tools:
-<img src="![java](https://github.com/LeonBochenek/LeonBochenek/assets/116550155/743b144a-615f-43b4-b7f4-b008e9f676a8)
-" width="25" height="25">
+<img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/743b144a-615f-43b4-b7f4-b008e9f676a8" width="25" height="25">
 <img src="![spring](https://github.com/LeonBochenek/LeonBochenek/assets/116550155/8f9ee9b5-e9ba-44eb-8d46-8ccf23dc55b3)
 " width="25" height="25">
 <img src="![git](https://github.com/LeonBochenek/LeonBochenek/assets/116550155/f76e9840-ef52-418d-a85a-6c58fc2b83d4)
