@@ -15,8 +15,8 @@ I'm Leon, a Junior Java Developer based in Biecz, Poland. Here's a bit more abou
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/8f9ee9b5-e9ba-44eb-8d46-8ccf23dc55b3" width="25" height="25">
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/f76e9840-ef52-418d-a85a-6c58fc2b83d4" width="25" height="25">
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/4a14988e-3b68-4236-ab6f-7ceabf197c0b" width="25" height="25">
-<img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/61c84af2-0d1a-423a-bae6-588299cfe629" width="26" height="37">
-<img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/a4910bab-263e-46d7-abfa-cbee8184d9c2" width="30" height="25">
+<img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/61c84af2-0d1a-423a-bae6-588299cfe629" width="20" height="28">
+<img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/a4910bab-263e-46d7-abfa-cbee8184d9c2" width="25" height="20">
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/345746a5-1a40-46f4-adfc-7c8032442489" width="25" height="25">
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/2603754c-7694-4efe-a7a9-e7e283a6bdf6" width="30" height="30">
 
