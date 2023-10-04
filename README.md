@@ -1,8 +1,9 @@
 # Hi Everyone I'm Leon and I'm 👋
-### Junior Java Developer 
+### Junior Java Developer ![java](https://github.com/LeonBochenek/LeonBochenek/assets/116550155/799ee1d4-24de-4de5-80ed-3dd97c4ffc8d)
+
 <!--
 **LeonBochenek/LeonBochenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F19899948-java-png-free-download&psig=AOvVaw3rSWUni665SHTJXDLwAK72&ust=1696503965855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjhrPSf3IEDFQAAAAAdAAAAABAI)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
