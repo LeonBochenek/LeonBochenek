@@ -20,6 +20,9 @@ I'm Leon, a Junior Java Developer based in Biecz, Poland. Here's a bit more abou
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/345746a5-1a40-46f4-adfc-7c8032442489" width="25" height="25">
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/2603754c-7694-4efe-a7a9-e7e283a6bdf6" width="30" height="30">
 
+## My Projects
+- Future Belongs To Us https://github.com/CodecoolGlobal/react-for-a-cause-react-ignacyD
+
 <!--
 **LeonBochenek/LeonBochenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
