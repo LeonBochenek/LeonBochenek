@@ -23,6 +23,7 @@ I'm Leon, a Junior Java Developer based in Biecz, Poland. Here's a bit more abou
 ## My Projects
 - Future Belongs To Us https://github.com/CodecoolGlobal/react-for-a-cause-react-ignacyD
 - Mars Exploration https://github.com/CodecoolGlobal/mars-exploration-3-java-AceOfSnakes60
+- Pizza Order Prototype https://github.com/CodecoolGlobal/pizza-order-prototype-javascript-TomekGalazka
 
 <!--
 **LeonBochenek/LeonBochenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
