@@ -21,9 +21,9 @@ I'm Leon, a Junior Java Developer based in Biecz, Poland. Here's a bit more abou
 <img src="https://github.com/LeonBochenek/LeonBochenek/assets/116550155/2603754c-7694-4efe-a7a9-e7e283a6bdf6" width="30" height="30">
 
 ## My Projects
-- Future Belongs To Us https://github.com/CodecoolGlobal/react-for-a-cause-react-ignacyD
-- Mars Exploration https://github.com/CodecoolGlobal/mars-exploration-3-java-AceOfSnakes60
-- Pizza Order Prototype https://github.com/CodecoolGlobal/pizza-order-prototype-javascript-TomekGalazka
+- Future Belongs To Us https://github.com/LeonBochenek/future-belongs-to-us
+- Mars Exploration https://github.com/LeonBochenek/mars-exploration
+- Pizza Order Prototype https://github.com/LeonBochenek/pizza-order-prototype
 
 <!--
 **LeonBochenek/LeonBochenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
